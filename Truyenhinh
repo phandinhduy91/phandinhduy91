@@ -69,6 +69,8 @@ https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV20_HD.smil/chunklist_b26920
 #EXTINF:-1 tvg-id="SCTV Phim Tổng Hợp" group-title="SCTV" tvg-logo="https://i.imgur.com/cvWRcY0.png", SCTV HD Phim Tổng Hợp
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVHDPhimTH.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 
+#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png", Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" ,AXN HD

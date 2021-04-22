@@ -86,7 +86,7 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ - QNET" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="VTC1-ClipTV" tvg-name="VTC1-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD
@@ -243,6 +243,6 @@ http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/XbhDDFs/KIENGIANG1-BEARTV.png", Kiên Giang 1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:0 group-title="K+" tvg-logo="://i.ibb.co/XbhDDFs/KIENGIANG1-BEARTV.png", K+ Nhịp Sóng
-http://137.220.60.199/kns/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="HBO HD" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="HBO HD" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png", HBO HD
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
